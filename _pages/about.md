@@ -51,7 +51,7 @@ Open Source Projects
 =====
 Most of my research work is open-source. Here are some of my preferred projects.
 
-- [**TextBox**](https://github.com/RUCAIBox/TextBox) &nbsp; [![GitHub stars](https://img.shields.io/github/stars/RUCAIBox/TextBox?style=social&label=Star)]()
+- [**TextBox**](https://github.com/RUCAIBox/TextBox) &nbsp; [![GitHub stars](https://img.shields.io/github/stars/RUCAIBox/TextBox?style=social&label=Star)](https://github.com/RUCAIBox/TextBox)
 
   TextBox is an up-to-date text generation library based on Python and PyTorch focusing on building a unified and standardized pipeline for applying pre-trained language models to text generation.
 
