@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Tianyi Tang (唐天一)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,97 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a second year graduate student at Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN), who runs the [AI Box](http://aibox.ruc.edu.cn/) Lab. My major research interest lies in natural language processing (NLP), with focuses on large language models, pre-trained language models, and text generation.
 
-A data-driven personal website
+Selected Publications 
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Here, I have selected several of my favorite work, and the complete publication can be found in [Publication](https://steventang1998.github.io/publications/).
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+\* denotes equal contribution
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Preprint
+### Not All Metrics Are Guilty: Improving NLG Evaluation with LLM Paraphrasing [[paper]](https://arxiv.org/pdf/2305.15067)
+**Tianyi Tang**, Hongyuan Lu, Yuchen Eleanor Jiang, Haoyang Huang, Dongdong Zhang, Wayne Xin Zhao, Furu Wei
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+### Not All Languages Are Created Equal in LLMs: Improving Multilingual Capability by Cross-Lingual-Thought Prompting [[paper]](https://arxiv.org/pdf/2305.07004)
+Haoyang Huang\*, **Tianyi Tang**\*, Dongdong Zhang, Wayne Xin Zhao, Ting Song, Yan Xia, Furu Wei
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+### A Survey of Large Language Models [[paper]](https://arxiv.org/pdf/2303.18223)
+Wayne Xin Zhao, Kun Zhou\*, Junyi Li\*, **Tianyi Tang**, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+### Pre-trained Language Models for Text Generation: A Survey [[paper]](https://arxiv.org/pdf/2201.05273)
+Junyi Li\*, **Tianyi Tang**\*, Wayne Xin Zhao, Jian-Yun Nie, Ji-Rong Wen
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## 2023
+### Learning to Imagine: Visually-Augmented Natural Language Generation *(ACL 2023)* [[paper]](https://arxiv.org/pdf/2305.16944)
+**Tianyi Tang**, Yushuo Chen, Yifan Du, Junyi Li, Wayne Xin Zhao, Ji-Rong Wen
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+### MVP: Multi-task Supervised Pre-training for Natural Language Generation *(Findings of ACL 2023)* [[paper]](https://arxiv.org/pdf/2206.12131)
+**Tianyi Tang**, Junyi Li, Wayne Xin Zhao, Ji-Rong Wen
+
+
+## 2022
+### Context-Tuning: Learning Contextualized Prompts for Natural Language Generation *(COLING 2022)* [[paper]](https://aclanthology.org/2022.coling-1.552.pdf)
+**Tianyi Tang**, Junyi Li, Wayne Xin Zhao, Ji-Rong Wen
+
+### TextBox 2.0: A Text Generation Library with Pre-trained Language Models *(EMNLP 2022 System Demonstrations)* [[paper]](https://aclanthology.org/2022.emnlp-demos.42.pdf)
+**Tianyi Tang**\*, Junyi Li\*, Zhipeng Chen\*, Yiwen Hu, Zhuohao Yu, Wenxun Dai, Wayne Xin Zhao, Jian-Yun Nie and Ji-Rong Wen
+
+
+Open Source Projects
+=====
+Most of my research work is open-source. Here are some of my preferred projects.
+
+- [**TextBox**](https://github.com/RUCAIBox/TextBox) &nbsp; [![GitHub stars](https://img.shields.io/github/stars/RUCAIBox/TextBox?style=social&label=Star)]()
+
+  TextBox is an up-to-date text generation library based on Python and PyTorch focusing on building a unified and standardized pipeline for applying pre-trained language models to text generation.
+
+- [**MVP**](https://huggingface.co/docs/transformers/model_doc/mvp)
+  
+  MVP is a pre-trained language model specially designed for natural language generation tasks. MVP is supervised pre-trained (instruction tuned) using labeled datasets. We can have merged it into [Hugging Face](https://huggingface.co/RUCAIBox/mvp).
+
+  
+Education
+=====
+- **M.E., Renmin University of China**, [School of Artificial Intelligence](http://ai.ruc.edu.cn/)
+  
+  2021 - present, advisor: [Prof. Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN)
+
+- **B.E., Renmin University of China**, [School of Information](http://info.ruc.edu.cn/)
+  
+  2017 - 2021
+
+
+Experience
+=====
+- **Research Intern, Microsoft Research Asia**
+
+  2023.02 - present, Natural Language Computing (NLC) group, with [Haoyang Huang](https://www.microsoft.com/en-us/research/people/haohua/) and [Dongdong Zhang](https://www.microsoft.com/en-us/research/people/dozhang/)
+
+
+Service
+=====
+- **PC Reviewer**: ACL 2023, EMNLP 2023
+
+
+Awards
+=====
+- 2021 **Outstanding Graduates**, Beijing Municipal Education Commission
+- 2021 **Outstanding Graduation Project**, Beijing Municipal Education Commission
+- 2021 **Nomination Star of the Graduates** (20 students per year), Renmin University of China
+- 2019 **Gold Medal** in Collegiate Computer System & Programming Contest (CCSP), China Computer Federation (CCF)
+- 2019 **Silver Medal** in the ICPC Asia Regional Contest (Shanghai Site), the ICPC International Collegiate Programming Contest
+- 2019 **National Scholarship**, Ministry of Education of China
+- 2018 **Silver Medal** in the ICPC Asia-East Continent Final (Xi'an Site), the ACM International Collegiate Programming Contest
+- 2018 **Silver Medal** in the ACM-ICPC Asia Regional Contest (Nanjing Site), the ACM International Collegiate Programming Contest
+- 2018 **First Prize** in China Undergraduate Mathematical Contest in Modeling (Beijing Site), China Society for Industrial and Applied Mathematics
+- 2018 **Meritorious Winner** in Mathmatical Conest in Modeling, Consortium for Mathematics and its Applications (COMAP)
+- 2017 **Bronze Medal** in the ACM-ICPC Asia Regional Contest (EC-Final), the ACM International Collegiate Programming Contest
+- 2017 **Silver Medal** in the ACM-ICPC Asia Regional Contest (Xi'an Site), the ACM International Collegiate Programming Contest
+- 2016 **Bronze Medal** in China National Olympiad in Informatics (NOI), China Computer Federation (CCF)
+- 2016 **First Prize** in China National Olympiad in Informatics in Provinces (NOIP), China Computer Federation (CCF)
+- 2018, 2019, 2020, 2022 **Merit Student**, Renmin University of China
+- 2018, 2019, 2020, 2022 **Outstanding Student Cadre**, Renmin University of China
+- 2018, 2019, 2020, 2022 **Outstanding Communist Youth League Member**, Renmin University of China

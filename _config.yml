@@ -10,7 +10,7 @@ locale                   : "zh-China"
 title                    : "Tianyi Tang / 唐天一"
 title_separator          : "-"
 name                     : &name "Tianyi Tang"
-description              : &description "personal description"
+description              : &description "I am a second year graduate student at Renmin University of China, under the supervision of Wayne Xin Zhao, who runs the AI Box Lab. My major research interest lies in natural language processing (NLP), with focuses on large language models, pre-trained language models, and text generation."
 url                      : https://steventang1998.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "StevenTang1998/steventang1998.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tianyi Tang"
   avatar           : "profile.jpg"
-  bio              : "2nd year Master student at Renmin University of China"
+  bio              : "2nd year graduate student at Renmin University of China"
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
