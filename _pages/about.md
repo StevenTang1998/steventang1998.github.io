@@ -72,6 +72,7 @@ Haoyang Huang\*, **Tianyi Tang**\*, Dongdong Zhang, Wayne Xin Zhao, Ting Song, Y
 
 
 <br><br>
+
 Education
 =====
 - **M.E., Renmin University of China**, [School of Artificial Intelligence](http://ai.ruc.edu.cn/)
@@ -83,6 +84,7 @@ Education
   2017 - 2021
 
 <br><br>
+
 Experience
 =====
 - **Research Intern, Microsoft Research Asia**
@@ -94,6 +96,7 @@ Experience
   Wenxin Team with [Zhenyu Zhang](https://zhenyu.ac.cn/)
 
 <br><br>
+
 Selected Awards
 =====
 - 2024, 2021 **Outstanding Graduates**, Beijing Municipal Education Commission
