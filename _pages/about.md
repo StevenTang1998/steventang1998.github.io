@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a member of the [Qwen Team](https://qwenlm.github.io/) at Alibaba, where I focus on enhancing the human alignment of large language models. I have been deeply involved in the development of the Qwen series models, including Qwen2.5, QwQ, and Qwen3. I graduated from Renmin University of China, where I conducted research under the supervision of Professor Wayne Xin Zhao in the [AI Box](https://aibox.ruc.edu.cn/).
+I am currently a member of the [Qwen Team](https://qwenlm.github.io/) at Alibaba, where I have been deeply involved in the development of the Qwen series of large language models, including Qwen2.5, QwQ, and Qwen3. I graduated from Renmin University of China, where I was fortunate to conduct research under the supervision of Professor Wayne Xin Zhao in the [AI Box Lab](https://aibox.ruc.edu.cn/). My primary research focus lies in improving human alignment for large language models. I have authored several papers published in top-tier conferences, such as ICLR, ACL, EMNLP, and NAACL.
+
+If you're interested in collaborating or joining our team, feel free to reach out by sending your resume to [steventianyitang@outlook.com](mailto:steventianyitang@outlook.com).
+
 
 Selected Publications 
 ======
