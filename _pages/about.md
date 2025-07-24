@@ -8,66 +8,73 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a member of the [Qwen Team](https://qwenlm.github.io/) at Alibaba, where I have been deeply involved in the development of the Qwen series of large language models, including Qwen2.5, QwQ, and Qwen3. I graduated from Renmin University of China, where I was fortunate to conduct research under the supervision of Professor Wayne Xin Zhao in the [AI Box Lab](https://aibox.ruc.edu.cn/). My primary research focus lies in improving human alignment for large language models. I have authored several papers published in top-tier conferences, such as ICLR, ACL, EMNLP, and NAACL.
+I am currently a member of the [Qwen Team](https://qwenlm.github.io/) at Alibaba, where I have been deeply involved in the development of the Qwen series of large language models, including Qwen2.5, QwQ, and Qwen3. I graduated from Renmin University of China, where I conducted research under the supervision of Professor Wayne Xin Zhao in the [AI Box Lab](https://aibox.ruc.edu.cn/). My primary research focus lies in improving human alignment for large language models. I have authored several papers published in top-tier conferences and journals, such as ICLR, ACL, EMNLP, and CSUR
+.
 
 If you're interested in collaborating or joining our team, feel free to reach out by sending your resume to [steventianyitang@outlook.com](mailto:steventianyitang@outlook.com).
 
 
 Selected Publications 
 ======
-Here, I have selected several of my favorite work, and the complete publication can be found in [Publication](https://steventang1998.github.io/publications/).
 
-\* denotes equal contribution
+## 2025
 
-## Preprint
-### Not All Metrics Are Guilty: Improving NLG Evaluation with LLM Paraphrasing [[paper]](https://arxiv.org/pdf/2305.15067)
-**Tianyi Tang**, Hongyuan Lu, Yuchen Eleanor Jiang, Haoyang Huang, Dongdong Zhang, Wayne Xin Zhao, Furu Wei
+### Qwen3 Technical Report [[paper]](https://arxiv.org/pdf/2505.09388)
+An Yang, Anfeng Li, Baosong Yang, Beichen Zhang, Binyuan Hui, Bo Zheng, Bowen Yu, Chang Gao, Chengen Huang, Chenxu Lv, Chujie Zheng, Dayiheng Liu, Fan Zhou, Fei Huang, Feng Hu, Hao Ge, Haoran Wei, Huan Lin, Jialong Tang, Jian Yang, Jianhong Tu, Jianwei Zhang, Jianxin Yang, Jiaxi Yang, Jing Zhou, Jingren Zhou, Junyang Lin, Kai Dang, Keqin Bao, Kexin Yang, Le Yu, Lianghao Deng, Mei Li, Mingfeng Xue, Mingze Li, Pei Zhang, Peng Wang, Qin Zhu, Rui Men, Ruize Gao, Shixuan Liu, Shuang Luo, Tianhao Li, **Tianyi Tang**, Wenbiao Yin, Xingzhang Ren, Xinyu Wang, Xinyu Zhang, Xuancheng Ren, Yang Fan, Yang Su, Yichang Zhang, Yinger Zhang, Yu Wan, Yuqiong Liu, Zekun Wang, Zeyu Cui, Zhenru Zhang, Zhipeng Zhou, Zihan Qiu
 
-### Not All Languages Are Created Equal in LLMs: Improving Multilingual Capability by Cross-Lingual-Thought Prompting [[paper]](https://arxiv.org/pdf/2305.07004)
-Haoyang Huang\*, **Tianyi Tang**\*, Dongdong Zhang, Wayne Xin Zhao, Ting Song, Yan Xia, Furu Wei
+### Neuron-based Personality Trait Induction in Large Language Models (*ICLR 2025*) [[paper]](https://arxiv.org/pdf/2410.12327)
+Jia Deng, **Tianyi Tang**, Yanbin Yin, Wenhao Yang, Wayne Xin Zhao, Ji-Rong Wen
 
+## 2024
 
-### A Survey of Large Language Models [[paper]](https://arxiv.org/pdf/2303.18223)
-Wayne Xin Zhao, Kun Zhou\*, Junyi Li\*, **Tianyi Tang**, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen.
+### Qwen2.5 Technical Report [[paper]](https://arxiv.org/pdf/2412.15115)
+An Yang, Baosong Yang, Beichen Zhang, Binyuan Hui, Bo Zheng, Bowen Yu, Chengyuan Li, Dayiheng Liu, Fei Huang, Haoran Wei, Huan Lin, Jian Yang, Jianhong Tu, Jianwei Zhang, Jianxin Yang, Jiaxi Yang, Jingren Zhou, Junyang Lin, Kai Dang, Keming Lu, Keqin Bao, Kexin Yang, Le Yu, Mei Li, Mingfeng Xue, Pei Zhang, Qin Zhu, Rui Men, Runji Lin, Tianhao Li, **Tianyi Tang**, Tingyu Xia, Xingzhang Ren, Xuancheng Ren, Yang Fan, Yang Su, Yichang Zhang, Yu Wan, Yuqiong Liu, Zeyu Cui, Zhenru Zhang, Zihan Qiu
 
-### Pre-trained Language Models for Text Generation: A Survey [[paper]](https://arxiv.org/pdf/2201.05273)
+### Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models (*ACL 2024*) [[paper]](https://aclanthology.org/2024.acl-long.309.pdf)
+**Tianyi Tang**\*, Wenyang Luo\*, Haoyang Huang, Dongdong Zhang, Xiaolei Wang, Wayne Xin Zhao, Furu Wei, Ji-Rong Wen
+
+### LLMBox: A Comprehensive Library for Large Language Models (*ACL 2024 System Demonstrations*) [[paper]](https://aclanthology.org/2024.acl-demos.37.pdf)
+**Tianyi Tang**\*, Yiwen Hu\*, Bingqian Li, Wenyang Luo, Zijing Qin, Haoxiang Sun, Jiapeng Wang, Shiyi Xu, Xiaoxue Cheng, Geyang Guo, Han Peng, Bowen Zheng, Yiru Tang, Yingqian Min, Yushuo Chen, Jie Chen, Yuanqian Zhao, Luran Ding, Yuhao Wang, Zican Dong, Chunxuan Xia, Junyi Li, Kun Zhou, Wayne Xin Zhao, Ji-Rong Wen
+
+### Not All Metrics Are Guilty: Improving NLG Evaluation by Diversifying References (*NAACL 2024*) [[paper]](https://arxiv.org/pdf/2305.15067.pdf)
+**Tianyi Tang**, Hongyuan Lu, Yuchen Eleanor Jiang, Haoyang Huang, Dongdong Zhang, Wayne Xin Zhao, Tom Kocmi, Furu Wei
+
+### Pre-trained Language Models for Text Generation: A Survey (*ACM Computing Surveys*) [[paper]](https://dl.acm.org/doi/10.1145/3649449)
 Junyi Li\*, **Tianyi Tang**\*, Wayne Xin Zhao, Jian-Yun Nie, Ji-Rong Wen
+
+### BAMBOO: A Comprehensive Benchmark for Evaluating Long Text Modeling Capacities of Large Language Models (*LREC-COLING 2024*) [[paper]](https://arxiv.org/pdf/2309.13345.pdf)
+Zican Dong, **Tianyi Tang**, Junyi Li, Wayne Xin Zhao, Ji-Rong Wen
 
 
 ## 2023
-### Learning to Imagine: Visually-Augmented Natural Language Generation *(ACL 2023)* [[paper]](https://arxiv.org/pdf/2305.16944)
+
+
+### A Survey of Large Language Models [[paper]](https://arxiv.org/pdf/2303.18223.pdf)
+Wayne Xin Zhao, Kun Zhou\*, Junyi Li\*, **Tianyi Tang**, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen
+
+### Not All Languages Are Created Equal in LLMs: Improving Multilingual Capability by Cross-Lingual-Thought Prompting (*Findings of EMNLP 2023*) [[paper]](https://aclanthology.org/2023.findings-emnlp.826.pdf)
+Haoyang Huang\*, **Tianyi Tang**\*, Dongdong Zhang, Wayne Xin Zhao, Ting Song, Yan Xia, Furu Wei
+
+### MVP: Multi-task Supervised Pre-training for Natural Language Generation (*Findings of ACL 2023*) [[paper]](https://aclanthology.org/2023.findings-acl.558.pdf)
+**Tianyi Tang**, Junyi Li, Wayne Xin Zhao, Ji-Rong Wen
+
+### Learning to Imagine: Visually-Augmented Natural Language Generation (*ACL 2023*) [[paper]](https://aclanthology.org/2023.acl-long.526.pdf)
 **Tianyi Tang**, Yushuo Chen, Yifan Du, Junyi Li, Wayne Xin Zhao, Ji-Rong Wen
 
-### MVP: Multi-task Supervised Pre-training for Natural Language Generation *(Findings of ACL 2023)* [[paper]](https://arxiv.org/pdf/2206.12131)
-**Tianyi Tang**, Junyi Li, Wayne Xin Zhao, Ji-Rong Wen
-
-
 ## 2022
-### Context-Tuning: Learning Contextualized Prompts for Natural Language Generation *(COLING 2022)* [[paper]](https://aclanthology.org/2022.coling-1.552.pdf)
+
+### TextBox 2.0: A Text Generation Library with Pre-trained Language Models (*EMNLP 2022 System Demonstrations*) [[paper]](https://aclanthology.org/2022.emnlp-demos.42.pdf)
+**Tianyi Tang**\*, Junyi Li\*, Zhipeng Chen\*, Yiwen Hu, Zhuohao Yu, Wenxun Dai, Wayne Xin Zhao, Jian-Yun Nie, Ji-Rong Wen
+
+### Context-Tuning: Learning Contextualized Prompts for Natural Language Generation (*COLING 2022*) [[paper]](https://aclanthology.org/2022.coling-1.552.pdf)
 **Tianyi Tang**, Junyi Li, Wayne Xin Zhao, Ji-Rong Wen
-
-### TextBox 2.0: A Text Generation Library with Pre-trained Language Models *(EMNLP 2022 System Demonstrations)* [[paper]](https://aclanthology.org/2022.emnlp-demos.42.pdf)
-**Tianyi Tang**\*, Junyi Li\*, Zhipeng Chen\*, Yiwen Hu, Zhuohao Yu, Wenxun Dai, Wayne Xin Zhao, Jian-Yun Nie and Ji-Rong Wen
-
-
-Open Source Projects
-=====
-Most of my research work is open-source. Here are some of my preferred projects.
-
-- [**TextBox**](https://github.com/RUCAIBox/TextBox) &nbsp; [![GitHub stars](https://img.shields.io/github/stars/RUCAIBox/TextBox?style=social&label=Star)](https://github.com/RUCAIBox/TextBox)
-
-  TextBox is an up-to-date text generation library based on Python and PyTorch focusing on building a unified and standardized pipeline for applying pre-trained language models to text generation.
-
-- [**MVP**](https://huggingface.co/docs/transformers/model_doc/mvp)
-  
-  MVP is a pre-trained language model specially designed for natural language generation tasks. MVP is supervised pre-trained (instruction tuned) using labeled datasets. We can have merged it into [Hugging Face](https://huggingface.co/RUCAIBox/mvp).
 
   
 Education
 =====
 - **M.E., Renmin University of China**, [School of Artificial Intelligence](http://ai.ruc.edu.cn/)
   
-  2021 - present, advisor: [Prof. Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN)
+  2021 - 2024, advisor: [Prof. Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN)
 
 - **B.E., Renmin University of China**, [School of Information](http://info.ruc.edu.cn/)
   
@@ -78,30 +85,21 @@ Experience
 =====
 - **Research Intern, Microsoft Research Asia**
 
-  2023.02 - present, Natural Language Computing (NLC) group, with [Haoyang Huang](https://www.microsoft.com/en-us/research/people/haohua/) and [Dongdong Zhang](https://www.microsoft.com/en-us/research/people/dozhang/)
+  Natural Language Computing group with [Haoyang Huang](https://scholar.google.com/citations?user=nIS66toAAAAJ&hl=en) and [Dongdong Zhang](https://www.microsoft.com/en-us/research/people/dozhang/)
+
+- **Research Intern, Baidu**
+
+  Wenxin Team with [Zhenyu Zhang](https://zhenyu.ac.cn/)
 
 
-Service
+Selected Awards
 =====
-- **PC Reviewer**: ACL 2023, EMNLP 2023
-
-
-Awards
-=====
-- 2021 **Outstanding Graduates**, Beijing Municipal Education Commission
+- 2024, 2021 **Outstanding Graduates**, Beijing Municipal Education Commission
+- 2024 **Wu Yuzhang Scholarship** (the highest honor in RUC, 10 students per year), Renmin University of China
 - 2021 **Outstanding Graduation Project**, Beijing Municipal Education Commission
 - 2021 **Nomination Star of the Graduates** (20 students per year), Renmin University of China
-- 2019 **Gold Medal** in Collegiate Computer System & Programming Contest (CCSP), China Computer Federation (CCF)
-- 2019 **Silver Medal** in the ICPC Asia Regional Contest (Shanghai Site), the ICPC International Collegiate Programming Contest
 - 2019 **National Scholarship**, Ministry of Education of China
-- 2018 **Silver Medal** in the ICPC Asia-East Continent Final (Xi'an Site), the ACM International Collegiate Programming Contest
-- 2018 **Silver Medal** in the ACM-ICPC Asia Regional Contest (Nanjing Site), the ACM International Collegiate Programming Contest
-- 2018 **First Prize** in China Undergraduate Mathematical Contest in Modeling (Beijing Site), China Society for Industrial and Applied Mathematics
-- 2018 **Meritorious Winner** in Mathmatical Conest in Modeling, Consortium for Mathematics and its Applications (COMAP)
-- 2017 **Bronze Medal** in the ACM-ICPC Asia Regional Contest (EC-Final), the ACM International Collegiate Programming Contest
-- 2017 **Silver Medal** in the ACM-ICPC Asia Regional Contest (Xi'an Site), the ACM International Collegiate Programming Contest
+- 2019 **Gold Medal** in Collegiate Computer System & Programming Contest (CCSP), China Computer Federation (CCF)
+- 2019, 2018 **Silver Medals** in the ICPC Asia Regional Contest, the ICPC International Collegiate Programming Contest
 - 2016 **Bronze Medal** in China National Olympiad in Informatics (NOI), China Computer Federation (CCF)
 - 2016 **First Prize** in China National Olympiad in Informatics in Provinces (NOIP), China Computer Federation (CCF)
-- 2018, 2019, 2020, 2022 **Merit Student**, Renmin University of China
-- 2018, 2019, 2020, 2022 **Outstanding Student Cadre**, Renmin University of China
-- 2018, 2019, 2020, 2022 **Outstanding Communist Youth League Member**, Renmin University of China
