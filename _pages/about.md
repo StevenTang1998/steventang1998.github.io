@@ -13,7 +13,7 @@ I am currently a member of the [Qwen Team](https://qwenlm.github.io/) at Alibaba
 
 If you're interested in collaborating or joining our team, feel free to reach out by sending your resume to [steventianyitang@outlook.com](mailto:steventianyitang@outlook.com).
 
-<br><br>
+<br>
 
 Selected Publications 
 ======
@@ -71,7 +71,7 @@ Haoyang Huang\*, **Tianyi Tang**\*, Dongdong Zhang, Wayne Xin Zhao, Ting Song, Y
 **Tianyi Tang**, Junyi Li, Wayne Xin Zhao, Ji-Rong Wen
 
 
-<br><br>
+<br>
 
 Education
 =====
@@ -83,7 +83,7 @@ Education
   
   2017 - 2021
 
-<br><br>
+<br>
 
 Experience
 =====
@@ -95,7 +95,7 @@ Experience
 
   Wenxin Team with [Zhenyu Zhang](https://zhenyu.ac.cn/)
 
-<br><br>
+<br>
 
 Selected Awards
 =====
