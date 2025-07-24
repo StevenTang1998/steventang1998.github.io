@@ -10,7 +10,7 @@ locale                   : "zh-China"
 title                    : "Tianyi Tang / 唐天一"
 title_separator          : "-"
 name                     : &name "Tianyi Tang"
-description              : &description "I am a second year graduate student at Renmin University of China, under the supervision of Wayne Xin Zhao, who runs the AI Box Lab. My major research interest lies in natural language processing (NLP), with focuses on large language models, pre-trained language models, and text generation."
+description              : &description "I am currently a member of the [Qwen Team](https://qwenlm.github.io/) at Alibaba, where I focus on enhancing the human alignment of large language models. I have been deeply involved in the development of the Qwen series models, including Qwen2.5, QwQ, and Qwen3. I graduated from Renmin University of China, where I conducted research under the supervision of Professor Wayne Xin Zhao in the [AI Box](https://aibox.ruc.edu.cn/)."
 url                      : https://steventang1998.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "StevenTang1998/steventang1998.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tianyi Tang"
   avatar           : "profile.jpg"
-  bio              : "2nd year graduate student at Renmin University of China"
-  location         : "Beijing, China"
+  bio              : "Qwen Team"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=t1mRUvQAAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "StevenTang98"
+  twitter          : # "StevenTang98"
   vine             :
   weibo            :
   xing             :

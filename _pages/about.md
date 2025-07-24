@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year graduate student at Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN), who runs the [AI Box](http://aibox.ruc.edu.cn/) Lab. My major research interest lies in natural language processing (NLP), with focuses on large language models, pre-trained language models, and text generation.
+I am currently a member of the [Qwen Team](https://qwenlm.github.io/) at Alibaba, where I focus on enhancing the human alignment of large language models. I have been deeply involved in the development of the Qwen series models, including Qwen2.5, QwQ, and Qwen3. I graduated from Renmin University of China, where I conducted research under the supervision of Professor Wayne Xin Zhao in the [AI Box](https://aibox.ruc.edu.cn/).
 
 Selected Publications 
 ======
