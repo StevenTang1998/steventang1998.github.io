@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a member of the [Qwen Team](https://qwenlm.github.io/) at Alibaba, where I have been deeply involved in the development of the Qwen series of large language models, including Qwen2.5, QwQ, and Qwen3. I graduated from Renmin University of China, where I conducted research under the supervision of Professor Wayne Xin Zhao in the [AI Box Lab](https://aibox.ruc.edu.cn/). My primary research focus lies in improving human alignment for large language models. I have authored several papers published in top-tier conferences and journals, such as ICLR, ACL, EMNLP, and CSUR
+I am currently a member of the [Qwen Team](https://qwenlm.github.io/) at Alibaba, where I have been deeply involved in the development of the Qwen series of large language models, including Qwen2.5, QwQ, and Qwen3. I graduated from Renmin University of China, where I conducted research under the supervision of Professor Wayne Xin Zhao in the [AI Box](https://aibox.ruc.edu.cn/) lab. My primary research focus lies in improving human alignment for large language models. I have authored several papers published in top-tier conferences and journals, such as ICLR, ACL, EMNLP, and CSUR
 .
 
 If you're interested in collaborating or joining our team, feel free to reach out by sending your resume to [steventianyitang@outlook.com](mailto:steventianyitang@outlook.com).
 
+<br><br>
 
 Selected Publications 
 ======
@@ -69,7 +70,8 @@ Haoyang Huang\*, **Tianyi Tang**\*, Dongdong Zhang, Wayne Xin Zhao, Ting Song, Y
 ### Context-Tuning: Learning Contextualized Prompts for Natural Language Generation (*COLING 2022*) [[paper]](https://aclanthology.org/2022.coling-1.552.pdf)
 **Tianyi Tang**, Junyi Li, Wayne Xin Zhao, Ji-Rong Wen
 
-  
+
+<br><br>
 Education
 =====
 - **M.E., Renmin University of China**, [School of Artificial Intelligence](http://ai.ruc.edu.cn/)
@@ -80,7 +82,7 @@ Education
   
   2017 - 2021
 
-
+<br><br>
 Experience
 =====
 - **Research Intern, Microsoft Research Asia**
@@ -91,7 +93,7 @@ Experience
 
   Wenxin Team with [Zhenyu Zhang](https://zhenyu.ac.cn/)
 
-
+<br><br>
 Selected Awards
 =====
 - 2024, 2021 **Outstanding Graduates**, Beijing Municipal Education Commission
