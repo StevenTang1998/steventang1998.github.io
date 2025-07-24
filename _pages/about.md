@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tianyi Tang (唐天一)"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
